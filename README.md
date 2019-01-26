@@ -1,6 +1,6 @@
 **TP OpenClassRooms**
 
 
-1) Installer les dépendances avec un "npm install"
+1) Install dependencies with "npm install"
 
-2) Démarrer le serveur avec un "nodemon server.js" ou "node server.js'
+2) Start server with "nodemon server.js" ou "node server.js'
