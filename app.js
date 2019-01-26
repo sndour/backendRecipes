@@ -36,7 +36,7 @@ app.post('/api/recipes', (req, res, next) => {
     recipe.save().then(
         () => {
             res.status(201).json({
-                message:'Thing created successfully'
+                message:'Recipe created successfully'
             });
         }
     ).catch((error) => {
